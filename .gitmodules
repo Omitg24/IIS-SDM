@@ -1,0 +1,3 @@
+[submodule "BetterWeather"]
+	path = BetterWeather
+	url = https://github.com/Omitg24/BetterWeather.git
